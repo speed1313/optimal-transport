@@ -1,7 +1,7 @@
 # optimal-transport
 Just for Learning optimal transport in JAX.
 
-I posted a blog about Optimal Transport in Japanese [here](https://speed1313.notion.site/Optimal-Transport-5387ebc17eaa4356a5b96eee33ef97f5).
+I posted a blog about Optimal Transport in Japanese [here](https://speed1313.github.io/posts/optimal_transport/).
 
 # How to use
 ```
